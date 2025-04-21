@@ -15,5 +15,3 @@
   - windows
   - linux
   - macos
-  - chromiumos
-  - bsd
